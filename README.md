@@ -1,4 +1,4 @@
-# Vídeos de como montar funções nas Caslculadoras Gráficas Desmos e GeoGebra. Os Temas são:
+# Vídeos de como montar funções nas Calculadoras Gráficas Desmos e GeoGebra. Os Temas são:
 
 - Função;
 - Derivada do quociente;
